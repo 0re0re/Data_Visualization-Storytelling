@@ -1,5 +1,5 @@
 # 🍎 AI & Food Affordability — A Data Storytelling Video  
-*A visual narrative exploring how artificial intelligence intersects with food prices, supply chains, and post-pandemic realities.*
+*A visual narrative exploring how the implementation of artificial intelligence in the agricultural sector impacts food prices, supply chains, and post-pandemic realities.using COVID19 as a benchmark*
 
 ---
 
@@ -72,9 +72,8 @@ The raw dataset (`MonthlyRetailPrices.xls`) is also included in this folder for 
 ---
 
 ## 📸 Visual Assets Included in This Folder
-
-- **Ai_and_Food_Affordability.png** — Thumbnail / cover graphic  
-- **Storyboard preview images** — Iterations from the animated scrollytelling process  
+  
+- **Animated Storyboard Designs** — Iterations from the animated scrollytelling process  
 - **FoodAffordability.ipynb** — Analysis notebook  
 - **MonthlyRetailPrices.xls** — Data file  
 
@@ -86,7 +85,6 @@ These assets document the full creative + analytical workflow of the project.
 Click below to view the complete data story:
 
 👉 **[Watch the AI & Food Affordability Video](YOUR_GOOGLE_DRIVE_LINK_HERE)**  
-*(Ensure Drive is set to: “Anyone with the link → Viewer”)*
 
 ---
 
@@ -95,12 +93,8 @@ Click below to view the complete data story:
 These storyboard frames show the early visual planning, sequencing, and narrative direction before the final video was produced.
 
 ### **Storyboard Part 1**  
-![Storyboard Preview Part 1](Storyboard_AI_Food_Affordability_Part1.png)
+![Storyboard Preview Part 1](Storyboard_AI_Food_Affordability.png)
 
-### **Storyboard Part 2**  
-![Storyboard Preview Part 2](Storyboard_AI_Food_Affordability_Part2.png)
-
-*(Rename these files if necessary so they match your actual uploads.)*
 
 ---
 
