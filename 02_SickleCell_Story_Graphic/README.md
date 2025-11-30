@@ -54,9 +54,9 @@ This piece is a small step toward giving visibility to the emotional and social 
 ## 📸 Visual Preview
 
 ### **Part 1**
-![Sickle Cell Story – Part 1](Sickle_cell(1).png)
+![Sickle Cell Story – Part 1](Sickle_cell(1).PNG)
 
-### **Part 2**
-![Sickle Cell Story – Part 2](Sickle_cell(2).png)
+### **Part 2**  
+![Sickle Cell Story – Part 2](Sickle_cell(2).PNG)
 
 
