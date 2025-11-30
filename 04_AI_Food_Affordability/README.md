@@ -84,7 +84,7 @@ These assets document the full creative + analytical workflow of the project.
 ## 🎬 Watch the Full Video  
 Click below to view the complete data story:
 
-👉 **[Watch the AI & Food Affordability Video](YOUR_GOOGLE_DRIVE_LINK_HERE)**  
+👉 **[Watch the AI & Food Affordability Video]((https://drive.google.com/file/d/1SX6vDFHoVoQG9wMnkoxqX7k7fZbGLGM3/view?usp=sharing))**  
 
 ---
 
