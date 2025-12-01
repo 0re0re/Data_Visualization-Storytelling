@@ -47,6 +47,8 @@ Click below to explore the full animated visualization:
 
 👉 **[https://public.flourish.studio/story/3396580/](https://public.flourish.studio/story/3396580/)**
 
+![Cholera Map Redesign](Cholera_Map_Redesign.png)
+
 ---
 
 ## 🧠 Skills & Techniques Demonstrated  
