@@ -20,7 +20,7 @@ This repository includes projects such as:
 Below is a collage of some major works featured in this repository:
 
 <p align="center">
-  <img src="image.png" alt="Portfolio Preview" width="85%">
+  <img src="image.jpg" alt="Portfolio Preview" width="85%">
 </p>
 
 ---
